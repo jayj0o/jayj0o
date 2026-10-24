@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Callysta Adzra Kesuma and I'm a student , from university of north sumatra , I hope one day I can become an Cyber Security.</p>
+<p align="left">My name is Callysta Adzra Kesuma and I'm a student , from university of north sumatra , I hope one day I can become a Security Analyst.</p>
 
 ###
 
