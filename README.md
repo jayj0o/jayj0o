@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is raduola and I'm a student , from university of north sumatra , I hope one day I can become an AI engineer.</p>
+<p align="left">My name is Callysta Adzra Kesuma and I'm a student , from university of north sumatra , I hope one day I can become an Cyber Security.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning python and cpp <br>🎯 Goals: I want to work at Microsoft<br>🎲 Fun fact: I want to make a robot but I don't want to take that class</p>
+<p align="left">📚 I'm currently learning python and cpp <br>🎯 Goals: I want to hack komdigi<br>🎲 Fun fact: I found out that learning ethical hacking is 10% feeling like bjorka and 90% mumet mau muntah</p>
 
 ###
 
